@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started with this project
 
 ### Reference Documentation
 For further reference, please consider the following sections:
